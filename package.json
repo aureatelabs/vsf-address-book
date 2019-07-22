@@ -1,0 +1,26 @@
+{
+    "name": "vsf-address-book",
+    "version": "1.0.0",
+    "description": "Address Book module for Vue Storefront",
+    "main": "index.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/aureatelabs/vsf-address-book.git"
+    },
+    "keywords": [
+      "Vue",
+      "Storefront",
+      "Address Book",
+      "Customer Address Book",
+      "Vue storefront address book"
+    ],
+    "author": "Piyush <piyush@aureatelabs.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/aureatelabs/vsf-address-book/issues"
+    },
+    "homepage": "https://github.com/aureatelabs/vsf-address-book#readme"
+  }
