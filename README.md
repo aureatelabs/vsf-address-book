@@ -59,3 +59,19 @@ Need to add component instance after shipping information view code.
 <script>
 ...
 ```
+## Customer address book API module
+
+Install additional extension for vue-storefront-api:
+
+```
+$ cp -f ./API/address-book ../vue-storefront-api/src/api/extensions/
+```
+
+Add the following config to your ../vue-storefront-api/config/local.json for Registration
+```
+"registeredExtensions": [
+  ...
+  "mail-service",
+  "address-book"
+],
+```
