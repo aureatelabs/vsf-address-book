@@ -2,6 +2,8 @@
 Customer address book extension for [vue-storefront](https://github.com/DivanteLtd/vue-storefront), by [Aureate Labs](https://aureatelabs.com)
 > This extension is used for manage customer multiple addresses.
 
+![Customer Address Book](docs/preview.png)
+
 ## Installation
 
 By hand (preferer):
@@ -75,3 +77,6 @@ Add the following config to your `./vue-storefront-api/config/local.json` for Re
   "address-book"
 ],
 ```
+## License
+
+This project is licensed under the [MIT License](https://github.com/aureatelabs/vsf-address-book/blob/master/LICENSE.txt)
