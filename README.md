@@ -21,7 +21,7 @@ Add the following config to your `config/local.json`
 
 ## Registration the customer address book extension
 
-Add script import to `./src/modules/index.ts`
+Add script import to `./src/modules/client.ts`
 ```
 ...
 import { AddressBook } from './address-book'
